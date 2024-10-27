@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Sobat-TA/.github/blob/main/ipb.png?raw=true" alt="ipb" width="200" height="150">
+  <img src="https://github.com/Sobat-TA/.github/blob/main/ipb.png?raw=true" alt="ipb" width="175" height="150">
   <img src="https://github.com/Sobat-TA/.github/blob/main/polinema.png?raw=true" alt="polinema" width="150" height="150">
 </p>
 
